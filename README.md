@@ -1,4 +1,4 @@
-# Everyone's Favourite Game, Tic-Tac-Toe Application
+# Everyone's Favourite Game Tic-Tac-Toe, Java Application
 
 ![image](https://github.com/user-attachments/assets/3c6d23dc-63d3-4f25-8301-894616a611f4)
 
